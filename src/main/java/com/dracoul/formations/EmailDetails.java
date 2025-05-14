@@ -19,7 +19,7 @@ public class EmailDetails {
 	private String subject;
 	private String attachment;
 	
-	private EmailDetails() {
+	/*private EmailDetails() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
@@ -69,7 +69,7 @@ public class EmailDetails {
 		return "EmailDetails [recipient=" + recipient + ", msgBody=" + msgBody + ", subject=" + subject
 				+ ", attachment=" + attachment + "]";
 	}
-	
+	*/
 	
 	
 }
